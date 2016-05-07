@@ -1,2 +1,2 @@
 # hello-world
-Intro repository for git tutorial
+I am a lover of code.
